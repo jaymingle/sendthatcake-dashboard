@@ -1,0 +1,10 @@
+.noty_bar .noty_body {
+    font-weight: 600;
+    padding: 1.07rem 1.25rem;
+    background-color: #e23f83;
+    /* border-color: pink; */
+}
+.errors{
+    color: red;
+    font-weight: 200;
+}

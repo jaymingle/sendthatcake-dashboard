@@ -1,0 +1,49 @@
+
+
+div.dataTables_wrapper div.dataTables_filter input {
+    margin-left: .5em;
+    display: inline-block;
+    width: auto;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #2c304d;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    padding: .75rem 1.07rem;
+}
+div.dataTables_wrapper div.dataTables_filter {
+    text-align: right;
+}
+
+/* .table thead th {
+    vertical-align: middle;
+    border: 0 none;
+    padding: 20px 12px 20px 12px;
+    color: #5d5386;
+    font-weight: 600;
+} */
+.table {
+    font-size: 1rem;
+    color: #000;
+}
+select.form-control:not([size]):not([multiple]) {
+    height: calc(2.85rem + 2px);
+}
+
+div.dataTables_wrapper div.dataTables_length select {
+    width: 75px;
+    display: inline-block;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #000;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    padding: .75rem 1.07rem;
+}
+
+
+.table thead {
+    background-color: #f7c1e285;
+    border-radius: 40px;
+}
+
